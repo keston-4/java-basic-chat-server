@@ -4,7 +4,7 @@ This project is a simple chat client. There are three implementations.
 **Server**<br />
 This starts up a server that can handle one client, when a client connected, the client and server can communicate.
 
-**AdvancedServer**<br />
+**MultiServer**<br />
 This is similar to server, with the addition of multiple clients. This means multiple clients can talk to the server, however, they cannot talk to each other.
 
 **ChatServer**<br />
