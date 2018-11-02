@@ -1,7 +1,3 @@
-
-package Multi;
-
-import Single.*;
 import java.io.*;
 import java.net.*;
 import java.util.*;

@@ -1,5 +1,3 @@
-package Single;
-
 import java.net.*;
 
 public class Client {
