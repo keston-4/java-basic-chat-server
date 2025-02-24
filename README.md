@@ -1,4 +1,4 @@
-# ChatServer
+# Basic Chat Server (Java)
 This project is a simple chat client. There are three implementations.
 
 **Server**<br />
